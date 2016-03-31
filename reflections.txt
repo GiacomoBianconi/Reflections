@@ -1,1 +1,5 @@
-my reflecletion
+my reflecletion:
+
+Branches: we will help to have mutiple copies of the code with sperimental changes
+
+Diagrams help you understand the reaciability and the status of the code
