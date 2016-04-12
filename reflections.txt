@@ -1,8 +1,0 @@
-my reflecletion:
-
-s: we will help to have mutiple copies of the code with sperimental changes
-
-Diagrams help you understand the reaciability and the status of the code
-
-Mering will merge all the commits in two brances. It make sense to have a node with two parenets and then delete the label.
-Reflections: by Giacomo Bianconi
